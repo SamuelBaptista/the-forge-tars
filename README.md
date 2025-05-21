@@ -2,6 +2,13 @@
 
 Experience our solution live at: [the-forge-tars.vercel.app](https://the-forge-tars.vercel.app/)
 
+## Team
+
+- Samuel Baptista
+- Isa Monteiro
+- Freddy Syarez
+- Ramiro Matteoda
+
 ## Overview
 
 The Loneliness AI Companion is our solution for the Forge 25.3 Voice Agents Personality Spike challenge. We've created a voice agent with emotional intelligence and personality consistency that can engage in empathetic conversations with users experiencing loneliness.
@@ -45,28 +52,12 @@ The implementation focuses on maintaining consistent personality while adapting 
 - Developed a consistent voice tone and speaking style
 - Ensured coherent responses through extensive testing and refinement
 
-## Evaluation Results
-
-We tested our solution with a group of 15 users who reported feelings of loneliness, with the following results:
-
-- 87% reported the agent seemed genuinely empathetic
-- 92% felt the conversation flowed naturally
-- 78% said they would use the companion again when feeling lonely
-- 85% found the personality to be consistent and authentic
-
 ## Future Improvements
 
 - Enhanced memory of past conversations to build deeper relationships
 - More sophisticated emotional response patterns
 - Integration with external tools to provide practical support
 - Voice customization options for users
-
-## Team
-
-- Samuel Baptista
-- Isa Monteiro
-- Freddy Syarez
-- Ramiro Matteoda
 
 ## Setup and Development
 
